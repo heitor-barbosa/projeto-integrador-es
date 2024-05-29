@@ -1,1 +1,3 @@
-Telas feitas: Sign up e Editar informações do usuário
+Telas feitas: 
+- Editar informações do usuário (index)
+- Sign up (index2)
